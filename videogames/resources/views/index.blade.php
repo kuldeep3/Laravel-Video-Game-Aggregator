@@ -5,7 +5,7 @@
         <h2 class="text-blue-500 uppercase tracking-wide font-semibold">Popular Games</h2>
         <div class="popular-games text-sm grid grid-cols-6 gap-12 border-b border-gray-800 pb-16">
             <div class="game mt-8">
-                <div class="relative inline-block">
+                <div class="relative">
                     <a href="#">
                         <img src="/images/fantasy.png" alt="game cover" class="hover:opacity-75 transition ease-in-out duration-150">
                     </a>
