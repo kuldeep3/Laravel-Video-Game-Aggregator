@@ -32,6 +32,11 @@
                             <a href="#" class="block text-base font-semibold leading-tight hover:gray-400 mt-8">Final Fantasy VII Remake</a>
                             <div class="text-gray-400 mt-1">Playstation</div>
                         </div>
+                        <div class="ml-12">
+                            <a href="#" class="block text-base font-semibold leading-tight hover:gray-400 mt-4">Final Fantasy VII Remake</a>
+                            <div class="text-gray-400 mt-1">Playstation 4</div>
+                            <p class="mt-6 text-gray-400">The world has fallen under the control of the Shinra Electric Power Company, a shadowy corporation controlling the planet’s very life force as mako energy. In the sprawling city of Midgar, an anti-Shinra organization calling themselves Avalanche have stepped up their resistance. Cloud Strife, a former member of Shinra’s elite SOLDIER unit now turned mercenary, lends his aid to the group, unaware of the epic consequences that await him. The story of this first, standalone game in the FINAL FANTASY VII REMAKE project covers up to the party’s escape from Midgar, and goes deeper into the events occurring in Midgar than the original FINAL FANTASY VII.</p>
+                        </div>
                     </div>
                 </div>
             </div>
